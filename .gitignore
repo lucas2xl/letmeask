@@ -9,8 +9,11 @@
 
 # production
 /build
+
+# Firebase Hosting
 /.firebase
 .firebaserc
+firebase/
 # misc
 .DS_Store
 .env.local
