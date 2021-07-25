@@ -23,6 +23,7 @@
 - [Typescript](https://www.typescriptlang.org)
 - [Styled-components](https://www.styled-components.com/)
 - [Sass](https://sass-lang.com/)
+- [Firebase](https://firebase.google.com/)
 
 ---
 
